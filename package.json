@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@oclif/core": "^3.25.0"
+    "@oclif/core": "3.25.0"
   },
   "devDependencies": {
     "typescript": "5.4.4"
   },
   "resolutions": {
-    "@oclif/core": "^3.25.0"
+    "@oclif/core": "3.25.0"
   }
 }
