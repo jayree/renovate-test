@@ -13,7 +13,7 @@
     "@oclif/core": "^3.25.0"
   },
   "devDependencies": {
-    "typescript": "5.4.3"
+    "typescript": "5.4.4"
   },
   "resolutions": {
     "@oclif/core": "^3.25.0"
