@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@oclif/core": "3.25.0"
+    "@oclif/core": "3.25.0",
+    "@salesforce/ts-types": "2.0.8"
   },
   "devDependencies": {
     "typescript": "5.4.4"
