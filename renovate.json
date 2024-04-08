@@ -3,5 +3,11 @@
   "extends": ["config:best-practices"],
   "prHourlyLimit": 0,
   "rangeStrategy": "bump",
-  "recreateWhen": "always"
+  "recreateWhen": "always",
+  "packageRules": [
+    {
+      "matchPackageNames": ["@oclif/core"],
+      "commitMessagePrefix": "fix"
+    }
+  ]
 }
