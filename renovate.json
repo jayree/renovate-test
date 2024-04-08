@@ -7,7 +7,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["@oclif/core"],
-      "commitMessagePrefix": "fix"
+      "commitMessagePrefix": "fix(deps):"
     }
   ]
 }
