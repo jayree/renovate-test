@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@oclif/core": "3.25.0",
-    "@salesforce/ts-types": "2.0.8",
+    "@salesforce/ts-types": "2.0.12",
     "@salesforce/core": "^6.7.2"
   },
   "devDependencies": {
