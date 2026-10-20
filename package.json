@@ -15,7 +15,7 @@
     "@salesforce/core": "^6.7.2"
   },
   "devDependencies": {
-    "typescript": "5.4.4"
+    "typescript": "7.0.2"
   },
   "resolutions": {
     "@oclif/core": "3.25.0",
